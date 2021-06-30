@@ -1,0 +1,2 @@
+rootProject.name = "appselector2"
+include ':app'
